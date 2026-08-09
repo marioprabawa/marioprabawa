@@ -35,13 +35,13 @@
 
 <div align="center">
 
-![Mario Angelo P's GitHub Stats](https://github-readme-stats-eight-now.vercel.app/api?username=marioprabawa&show_icons=true&theme=tokyonight&hide_border=true)
+![Mario Angelo P's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=marioprabawa&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marioprabawa&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=marioprabawa&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=marioprabawa&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Trophies](https://github-readme-activity-graph.vercel.app/graph?username=marioprabawa&theme=tokyonight)
+![GitHub Trophies](https://github-trophies.vercel.app/?username=marioprabawa&theme=tokyonight&no-frame=true&row=1&column=7)
 
 </div>
 
