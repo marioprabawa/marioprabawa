@@ -7,7 +7,7 @@
 
 <!-- Header Banner Image -->
 <!-- Ganti URL gambar di bawah dengan gambar header banner milik Anda (bisa buat di Canva) -->
-![Header Banner](https://via.placeholder.com/1200x300?text=Data+Analyst+%26+SQL+Enthusiast)
+![Header Banner](https://github.com/marioprabawa/marioprabawa/blob/main/Banner.jpg?raw=true)
 
 ---
 
